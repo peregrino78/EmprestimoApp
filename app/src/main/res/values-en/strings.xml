@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Emprestimo_LucasGasparini</string>
+    <string name="tituloEmprestimo">Loan</string>
+    <string name="btn_Cobrar">Charge</string>
+    <string name="btn_Devolver">Give back</string>
+    <string name="btn_Emprestar">Lend</string>
+    <string name="label_DataDevolucao">"Expected return date: "</string>
+    <string name="label_DataEmprestimo">"Date: "</string>
+    <string name="label_NomeEmprestimo">"Lend to: "</string>
+    <string name="label_ObjetoEmprestimo">Object lent:</string>
+</resources>

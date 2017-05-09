@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Emprestimo_LucasGasparini</string>
+
+    <!--BOTÕES-->
+    <string name="btn_Emprestar">Emprestar</string>
+    <string name="btn_Cobrar">Cobrar</string>
+    <string name="btn_Devolver">Devolver</string>
+
+
+    <!--LABELS-->
+    <string name="tituloEmprestimo">Empréstimo</string>
+    <string name="label_NomeEmprestimo">Emprestei para:</string>
+    <string name="label_ObjetoEmprestimo">Objeto do Empréstimo:</string>
+    <string name="label_DataEmprestimo">Na data:</string>
+    <string name="label_DataDevolucao">Data prevista da devolução:</string>
+
 </resources>
